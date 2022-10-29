@@ -1,1 +1,20 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kumar"
+  given-names: "Ashish"
+  orcid:
+- family-names: "Priya G"
+  given-names: "Vishnu"
+  orcid:
+ - family-names: "Zhang"
+  given-names: "Mengyan"
+  orcid:
+ - family-names: "Zhuo"
+  given-names: "Yuanhao"
+  orcid:
+title: "Melbourne University Data Science Project Group 24"
+version:
+doi:
+date-released: 2022-10-29
+url: "https://github.com/ashishk007/MAST90106_Group_24"
