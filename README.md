@@ -11,6 +11,6 @@ CRNN model:
 
 Credits for CRNN source code:
 
-    de Sousa Neto, A. F., Bezerra, B. L. D., Toselli, A. H., \& Lima, E. B. (2020, September). Htr-flor++ a handwritten text recognition system based on a pipeline of       optical and language models. In Proceedings of the ACM Symposium on Document Engineering 2020 (pp. 1-4).
+    de Sousa Neto, A. F., Bezerra, B. L. D., Toselli, A. H., \& Lima, E. B. (2020, September). Htr-flor++ a handwritten text recognition system based on a pipeline of optical and language models. In Proceedings of the ACM Symposium on Document Engineering 2020 (pp. 1-4).
     
-    github: https://github.com/arthurflor23/handwritten-text-recognition
+github: https://github.com/arthurflor23/handwritten-text-recognition
